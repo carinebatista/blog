@@ -12,7 +12,7 @@
 }
 html,
 body {
-  cursor: url('../img/cursor.png'), pointer;
+  cursor: url('/blog/img/cursor.png'), pointer;
 
   padding: 0;
   
@@ -20,7 +20,7 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--white);
   background-color: var(--black);
-  background-image: url(../img/stars.gif);
+  background-image: url('/blog/img/stars.gif');
 }
 p:last-child {
   margin-bottom: 0;
