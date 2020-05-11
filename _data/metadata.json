@@ -1,9 +1,9 @@
 {
-  "title": "Meu primeiro Blog",
-  "url": "file:///C:/Users/Usuario/Documents/blog/index.njs",
+  "title": "Carine Batista",
+  "url": "https:/carinebatista.blog.github.io",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A mais linda do planeta.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
