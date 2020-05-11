@@ -1,15 +1,15 @@
 {
   "title": "Carine Batista",
-  "url": "https:/carinebatista.github.io/blog",
+  "url": "https:/carinebatista.github.io/blog/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
-    "subtitle": "A mais linda do planeta.",
+    "subtitle": "This is my Blog.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://carinebatista.github.io/blog/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Carine Batista",
+    "email": "carinedcb@hotmail.com"
   }
 }

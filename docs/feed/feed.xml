@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Carine Batista</title>
-	<subtitle>A mais linda do planeta.</subtitle>
+	<subtitle>This is my Blog.</subtitle>
 	
 	<link href="https://carinebatista.github.io/feed/feed.xml" rel="self"/>
-	<link href="https:/carinebatista.github.io/blog"/>
+	<link href="https:/carinebatista.github.io/blog/"/>
 	<updated>2018-04-30T21:00:00-03:00</updated>
-	<id>https://myurl.com/</id>
+	<id>https://carinebatista.github.io/blog/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Carine Batista</name>
+		<email>carinedcb@hotmail.com</email>
 	</author>
 	
 	<entry>
